@@ -6,6 +6,8 @@ Livechat developed with:
 - Firebasse
 - Firestore
 - Material UI
+- Google Authentification
+- React Context API
 
 
 https://yhnlivechat.web.app/
